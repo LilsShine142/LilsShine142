@@ -19,6 +19,9 @@
 ## 📌 Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamThanhSu&layout=compact&theme=dark)  
 
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PhamThanhSu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🔥 GitHub Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PhamThanhSu&theme=dark)  
 
