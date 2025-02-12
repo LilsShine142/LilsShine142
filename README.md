@@ -21,7 +21,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PhamThanhSu&theme=dark)  
 
 ## 📈 GitHub Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PhamThanhSu&theme=github-dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhamThanhSu&theme=github-dark)
 
 ---
 
