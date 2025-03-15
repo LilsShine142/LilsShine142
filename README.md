@@ -14,19 +14,19 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhamThanhSu&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilsShine142&show_icons=true&theme=dark)  
 
 ## 📌 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamThanhSu&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilsShine142&layout=compact&theme=dark)  
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PhamThanhSu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LilsShine142&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=PhamThanhSu&theme=dark)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=LilsShine142&theme=dark)  
 
 ## 📈 GitHub Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhamThanhSu&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LilsShine142&theme=github-dark)
 
 ---
 
